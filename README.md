@@ -12,3 +12,7 @@ Ovdje će biti osnove vezane za commitanje programa
 # Objava sadržaja vezane za commitanje promjena.
 
 Ovdje će biti upute vezane za objavu repozitorija na wbu.
+
+# Test datoteka
+
+[Povezniva na test.md datoteku](test.md)
