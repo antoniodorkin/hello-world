@@ -22,3 +22,5 @@ Projekt je živ i dostupan za pregled na: [antoniodorkin.github.io/hello-world](
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 
 ![IMG_3917](https://github.com/antoniodorkin/hello-world/assets/150140192/e0bae9d1-b4ff-4a9d-ba49-25af94cbc111)
+
+Leo Bavdek povodom Vjezbe 2 mora prokomentirat beskrajnu ljepotu ovoga psa!!
