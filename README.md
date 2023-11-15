@@ -20,3 +20,4 @@ Za više informacija o Gitu i GitHubu, posjetite [GitHub Docs](https://docs.gith
 Projekt je živ i dostupan za pregled na: [antoniodorkin.github.io/hello-world](https://antoniodorkin.github.io/hello-world)
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
+![lucas-messere-KB5sgwBb7H8-unsplash](https://github.com/antoniodorkin/hello-world/assets/150140192/f015a0a0-2c06-43e7-aaef-330f1e16f36d)
