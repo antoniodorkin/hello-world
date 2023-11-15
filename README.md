@@ -23,4 +23,3 @@ Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako
 
 ![IMG_3917](https://github.com/antoniodorkin/hello-world/assets/150140192/e0bae9d1-b4ff-4a9d-ba49-25af94cbc111)
 
-Leo Bavdek povodom Vjezbe 2 mora prokomentirat beskrajnu ljepotu ovoga psa!!
